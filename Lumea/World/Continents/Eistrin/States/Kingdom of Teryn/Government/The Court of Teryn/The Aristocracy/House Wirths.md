@@ -1,0 +1,6 @@
+---
+tags:
+  - Government
+  - Teryn
+  - Aristocracy
+---

@@ -4,11 +4,18 @@ tags:
   - IronDiadem
 aliases: Eggo
 publish: "true"
+Race: Wood Elf
+Class: Ranger
+Age: "23"
+Gender: Male
+Origin: "[[Realm of Aeloria]]"
+Vital Status: Alive
+Level: "6"
 ---
 
-| Name      | Race     | Class  | Gender | Origin               |
-| --------- | -------- | ------ | ------ | -------------------- |
-| Eggo Bart | Wood Elf | Ranger | Male   | [[Realm of Aeloria]] |
+| Name      | Race     | Class  | Age | Gender | Origin               |
+| --------- | -------- | ------ | --- | ------ | -------------------- |
+| Eggo Bart | Wood Elf | Ranger | 23  | Male   | [[Realm of Aeloria]] |
 # Affiliations !hide
 - [[Realm of Aeloria]]
 - [[Kingdom of Teryn]]

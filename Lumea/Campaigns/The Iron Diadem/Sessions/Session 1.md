@@ -2,6 +2,10 @@
 tags:
   - IronDiadem
 publish: "true"
+Players:
+  - "[[Matt Stonebridge]]"
+  - "[[Dutch Roebal]]"
+  - "[[Eggo Bart]]"
 ---
 [[Session 2|Next Session →]]
 # Summary

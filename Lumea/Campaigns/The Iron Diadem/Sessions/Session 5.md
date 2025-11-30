@@ -2,11 +2,15 @@
 tags:
   - IronDiadem
 publish: "true"
+Players:
+  - "[[Matt Stonebridge]]"
+  - "[[Dutch Roebal]]"
+  - "[[Aelrin Althir]]"
 ---
 [[Session 4|← Previous Session]] | [[Session 6|Next Session →]]
 # Summary
 The group attends a lavish dinner with nobles before the hunt.
-- [[Matt Stonebridge|Matt]] and Eggo pose as local [[Eggo Bart|Eggo]].
+- [[Matt Stonebridge|Matt]] and [[Eggo Bart|Eggo]] pose as locals.
 - [[Dutch Roebal|Dutch]] masquerades as a noble’s son, with [[Gronk Buffonry|Gronk]] as his bodyguard.
 - [[Lira Thorne|Lira]] poses as a scout.
 They gather rumors about an upcoming royal ball and whispers of [[Pantheon#Historical Timeline|divine history]]. Mid-dinner, [[Atlas Stahl]] arrives, commanding instant respect. Most of the party feigns admiration, except Matt, drawing Atlas’s ire.
@@ -24,6 +28,6 @@ That night, Lira bonds with Aelrin and, with his help, sneaks through the lodge.
 
 The party regroups and prepares for their next move.
 
-# DM Info !hide
+# DM Notes !hide
 Matt and Atlas strike an uneasy alliance, Matt claiming to be an undercover rebel infiltrator.
 

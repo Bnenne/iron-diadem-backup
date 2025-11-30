@@ -2,6 +2,9 @@
 tags:
   - IronDiadem
 publish: "true"
+Players:
+  - "[[Matt Stonebridge]]"
+  - "[[Aelrin Althir]]"
 ---
 [[Session 5|← Previous Session]] | [[Session 7|Next Session →]]
 # Summary

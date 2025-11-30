@@ -5,11 +5,18 @@ tags:
 aliases:
   - Gronk
 publish: "true"
+Race: Half-Orc
+Class: Barbarian
+Age: "32"
+Gender: Male
+Origin: Who fucking knows
+Vital Status: Deceased
+Level: "5"
 ---
 
-| Name           | Race     | Class     | Gender | Origin            |
-| -------------- | -------- | --------- | ------ | ----------------- |
-| Gronk Buffonry | Half-Orc | Barbarian | Male   | Who fucking knows |
+| Name           | Race     | Class     | Age | Gender | Origin            |
+| -------------- | -------- | --------- | --- | ------ | ----------------- |
+| Gronk Buffonry | Half-Orc | Barbarian | 32  | Male   | Who fucking knows |
 # Affiliations !hide
 - [[Kingdom of Teryn]]
 - [[The Ashen Vanguard]]

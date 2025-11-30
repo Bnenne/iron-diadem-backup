@@ -2,6 +2,11 @@
 tags:
   - IronDiadem
 publish: "true"
+Players:
+  - "[[Matt Stonebridge]]"
+  - "[[Dutch Roebal]]"
+  - "[[Eggo Bart]]"
+  - "[[Gronk Buffonry]]"
 ---
 [[Session 3|← Previous Session]] | [[Session 5|Next Session →]]
 # Summary

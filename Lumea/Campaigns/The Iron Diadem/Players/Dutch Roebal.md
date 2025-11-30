@@ -5,11 +5,18 @@ tags:
 aliases:
   - Dutch
 publish: "true"
+Race: Gnome
+Class: Wizard
+Age: "20"
+Gender: Male
+Origin: "[[Skeldheim]]"
+Vital Status: Alive
+Level: "6"
 ---
 
-| Name         | Race  | Class  | Gender | Origin        |
-| ------------ | ----- | ------ | ------ | ------------- |
-| Dutch Roebal | Gnome | Wizard | Male   | [[Skeldheim]] |
+| Name         | Race  | Class  | Age | Gender | Origin        |
+| ------------ | ----- | ------ | --- | ------ | ------------- |
+| Dutch Roebal | Gnome | Wizard | 20  | Male   | [[Skeldheim]] |
 # Affiliations !hide
 - [[Skeldheim]]
 - [[Kingdom of Teryn]]

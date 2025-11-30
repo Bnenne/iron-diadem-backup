@@ -15,7 +15,7 @@ You gain a +2 bonus to attack and damage rolls made with this magic weapon. On a
 # Curse !hide
 Once attuned, a character cannot willing unattune except through magical means.
 
-Whenever you try to use another weapon roll a DC 15 Wisdom saving throw. On a failure pull this weapon out and the DC increases by 1. (17)
+Whenever you try to use another weapon roll a DC 15 Wisdom saving throw. On a failure pull this weapon out and the DC increases by 1. (18)
 
 Whenever you finish a long rest, make a DC 15 Wisdom saving throw. On a failure, you must attack the nearest creature in the next combat, regardless of ally or enemy, until you deal at least 15 damage.
 

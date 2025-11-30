@@ -2,5 +2,5 @@
 tags:
   - City
   - Teryn
-population: "8000"
+population: "4500"
 ---

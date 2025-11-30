@@ -1,6 +1,7 @@
 ---
 tags:
   - Teryn
+  - Territory
 ---
 # Factions
 - [[The Thornbound Circle]]

@@ -2,6 +2,7 @@
 tags:
   - Teryn
   - AshenVanguard
+population: "200"
 ---
 # Leadership
 - [[Marshal Vaelen Trask]] - Military Commander

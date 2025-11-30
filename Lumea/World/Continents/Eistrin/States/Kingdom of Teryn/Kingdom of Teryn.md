@@ -6,6 +6,7 @@ tags:
 aliases:
   - Teryn
 publish: "true"
+population: "3000000"
 ---
 A large, predominantly Human, kingdom. Currently under the reign of [[King Vaerin Albretcht]], and his authoritarian rule.
 # Provinces

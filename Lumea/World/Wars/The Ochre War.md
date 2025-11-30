@@ -1,6 +1,0 @@
----
-tags:
-  - War
-  - Teryn
-  - Aeloria
----

@@ -1,0 +1,31 @@
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("Player")
+    order:
+      - file.name
+      - Race
+      - Class
+      - Level
+      - Age
+      - Gender
+      - Origin
+      - Vital Status
+    sort:
+      - property: Vital Status
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.Race: 85
+      note.Class: 96
+      note.Level: 27
+      note.Age: 37
+      note.Gender: 50
+      note.Origin: 159
+      note.Vital Status: 89

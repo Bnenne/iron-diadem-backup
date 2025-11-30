@@ -1,0 +1,15 @@
+properties:
+  file.name:
+    displayName: Session
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Campaigns/The Iron Diadem/Sessions")
+    order:
+      - file.name
+      - Players
+    sort: []
+    columnSize:
+      file.name: 155

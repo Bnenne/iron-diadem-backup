@@ -3,40 +3,96 @@ publish: "true"
 title: Welcome to Lumea
 ---
 # The Iron Diadem
+## World Overview !hide
+![[Teryn East.base]]
+![[Teryn West.base]]
+![[Teryn North.base]]
+## Players !hide
+![[Players.base]]
+## Characters !hide
+![[Characters.base]]
+## Sessions !hide
+![[Session.base]]
+## Items & Artifacts !hide
+![[Items.base]]
+![[Artifacts.base]]
+
 ## World Overview
 - [[Lumea]]
 	- [[Eistrin]]
 		- [[Kingdom of Teryn]]
+			- [[Eastern Territory]]
+				- [[Cirene]]
+				- [[Drayth]]
+				- [[Ebren]]
+				- [[Ekora]]
+				- [[Korven]]
+				- [[Maelon]]
+				- [[Stad]]
+				- [[Talmere]]
+				- [[Velris]]
+			- [[Western Territory]]
+			- [[Northern Territory]]
 		- [[Realm of Aeloria]]
 		- [[Skeldheim]]
 ## Players
-```dataview
-LIST
-FROM #Player
-```
+<!-- QueryToSerialize: LIST FROM #Player -->
+<!-- SerializedQuery: LIST FROM #Player -->
+- [[Aelrin Althir]]
+- [[Matt Stonebridge]]
+- [[Dutch Roebal]]
+- [[Eggo Bart]]
+- [[Gronk Buffonry]]
+<!-- SerializedQuery END -->
 ## Characters
-```dataview
-LIST
-FROM #NPC
-WHERE publish = "true"
-```
+<!-- QueryToSerialize: LIST FROM #NPC -->
+<!-- SerializedQuery: LIST FROM #NPC -->
+- [[Torren Wylk]]
+- [[Somu Solrehd]]
+- [[Sister Brynna Seld]]
+- [[Marshal Vaelen Trask]]
+- [[Lira Thorne]]
+- [[Kela Harrowen]]
+- [[Eryn Talvane]]
+- [[King Vaerin Albretcht]]
+- [[Mara Albretcht]]
+- [[Cellan Nightflower]]
+- [[Atlas Stahl]]
+- [[High Priest Marcion Vale]]
+<!-- SerializedQuery END -->
 ## Sessions
-```dataview
-LIST
-FROM "Campaigns/The Iron Diadem/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM "Campaigns/The Iron Diadem/Sessions" -->
+<!-- SerializedQuery: LIST FROM "Campaigns/The Iron Diadem/Sessions" -->
+- [[Session 1]]
+- [[Session 2]]
+- [[Session 4]]
+- [[Session 3]]
+- [[Session 5]]
+- [[Session 7]]
+- [[Session 6]]
+- [[Session 8]]
+- [[Session 9]]
+- [[Session 10]]
+<!-- SerializedQuery END -->
 ## Items & Artifacts
-```dataview
-LIST
-FROM "Campaigns/The Iron Diadem/Items"
-WHERE publish = "true"
-```
-```dataview
-LIST
-FROM "World/Artifacts"
-WHERE publish = "true"
-```
-## Rules & Homebrew
+<!-- QueryToSerialize: LIST FROM #Item -->
+<!-- SerializedQuery: LIST FROM #Item -->
+- [[Temple Ledger]]
+- [[Mandate of Fire Verse]]
+- [[Doctrine of the Spear]]
+- [[Atlas's Note]]
+- [[Military Ledger]]
+<!-- SerializedQuery END -->
 
-# Add !hide
-- Ollaine - city?
+<!-- QueryToSerialize: LIST FROM #Artifact -->
+<!-- SerializedQuery: LIST FROM #Artifact -->
+- [[Warplate of Kaelrath]]
+- [[Thorns of Accord]]
+- [[The Umbral Oculum]]
+- [[Spear of Reverence]]
+- [[Mandate of Fire]]
+- [[Bow of Judgement]]
+- [[Aegis of the Fallen]]
+- [[Blade of Honor]]
+<!-- SerializedQuery END -->
+## Rules & Homebrew

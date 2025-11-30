@@ -31,6 +31,7 @@ tR += `---\n
 tags:\n
   - IronDiadem\n
 publish: "false"\n
+Players:\n
 ---\n`
 
 tR += `[[Session ${prev_session}|← Previous Session]]`;
@@ -38,4 +39,6 @@ tR += ` | `;
 tR += `[[Session ${next_session}|Next Session →]]\n`;
 
 tR += `# Summary\n`
+tR += `\n\n`
+tR += `# DM Notes !hide\n`
 %>

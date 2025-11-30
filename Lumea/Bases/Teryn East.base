@@ -1,0 +1,20 @@
+properties:
+  file.name:
+    displayName: Province
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("World/Continents/Eistrin/States/Kingdom of Teryn/Provinces/Eastern Territory")
+        - file.tags.containsAny("Province", "Territory")
+    order:
+      - file.name
+      - population
+      - economy
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 167
+      note.population: 123

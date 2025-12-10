@@ -38,11 +38,11 @@ title: Welcome to Lumea
 ## Players
 <!-- QueryToSerialize: LIST FROM #Player -->
 <!-- SerializedQuery: LIST FROM #Player -->
-- [[Aelrin Althir]]
 - [[Matt Stonebridge]]
-- [[Dutch Roebal]]
-- [[Eggo Bart]]
 - [[Gronk Buffonry]]
+- [[Eggo Bart]]
+- [[Dutch Roebal]]
+- [[Aelrin Althir]]
 <!-- SerializedQuery END -->
 ## Characters
 <!-- QueryToSerialize: LIST FROM #NPC -->
@@ -64,24 +64,27 @@ title: Welcome to Lumea
 <!-- QueryToSerialize: LIST FROM "Campaigns/The Iron Diadem/Sessions" -->
 <!-- SerializedQuery: LIST FROM "Campaigns/The Iron Diadem/Sessions" -->
 - [[Session 1]]
+- [[Session 10]]
+- [[Session 11]]
+- [[Session 12]]
 - [[Session 2]]
-- [[Session 4]]
 - [[Session 3]]
+- [[Session 4]]
 - [[Session 5]]
-- [[Session 7]]
 - [[Session 6]]
+- [[Session 7]]
 - [[Session 8]]
 - [[Session 9]]
-- [[Session 10]]
 <!-- SerializedQuery END -->
 ## Items & Artifacts
 <!-- QueryToSerialize: LIST FROM #Item -->
 <!-- SerializedQuery: LIST FROM #Item -->
 - [[Temple Ledger]]
+- [[Military Ledger]]
 - [[Mandate of Fire Verse]]
+- [[Eryn's Journal]]
 - [[Doctrine of the Spear]]
 - [[Atlas's Note]]
-- [[Military Ledger]]
 <!-- SerializedQuery END -->
 
 <!-- QueryToSerialize: LIST FROM #Artifact -->
@@ -91,8 +94,8 @@ title: Welcome to Lumea
 - [[The Umbral Oculum]]
 - [[Spear of Reverence]]
 - [[Mandate of Fire]]
-- [[Bow of Judgement]]
-- [[Aegis of the Fallen]]
 - [[Blade of Honor]]
+- [[Aegis of the Fallen]]
+- [[Bow of Judgement]]
 <!-- SerializedQuery END -->
 ## Rules & Homebrew

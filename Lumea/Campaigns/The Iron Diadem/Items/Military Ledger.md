@@ -12,6 +12,7 @@ Found in the goblin camp that attacked [[Winterholm]]
 > 
 > - 500 Gold
 > - 6 Military tents
+> - 1 Officers tent
 > - 8 Silver swords
 > - 8 Silver spears
 > - 4 Hickory-Yew Longbows

@@ -46,7 +46,7 @@ Atlas is tired of this and joins in, backing them into a corner. This is when he
 > "Remember what I told you? About being brave? It doesn't mean you're not scared. It means you do the right thing _even when_ you're scared."
 > *Her voice breaks*
 > "You three are the bravest people I know."
-> *To the oldest:* "Take care of your brother and sister, okay? Just like we practiced."
+> *To the oldest:* "Take care of your brothers, okay? Just like we practiced."
 > *To all three*: Matt's going to take care of you. He's going to give you the life I wanted for you. The one where you don't have to hide what you are. Where you don't have to steal to eat. Where you get to just... be kids."
 > *Tears running down her face now, but she's still smiling*
 > "Close your eyes now, sweethearts. Think about the stories I told you. The good ones. About the gardens in Aeloria, and the lights at the summer festival. Can you picture it?"
@@ -63,15 +63,19 @@ Atlas is tired of this and joins in, backing them into a corner. This is when he
 > 
 > "And Matt? Don't you dare use my death as an excuse to crawl into a bottle again. Those kids need you sober. They need you here."
 ### Eryn to Aelrin !hide
-> "Aelrin. You're strong, you know to fight and survive. You have the ability to help so many people."
+> "Aelrin. You're strong, you know how to fight and survive. You have the ability to help so many people."
 > 
 > "Don't let the artifacts take that from you. Don't let Kaelrath make you into what he's made Atlas. You're better than that. You've always been better than that."
 > 
-> "The kids actually adore you. They think you're magic. Don't prove them wrong."
+> "And please be kind to the kids, they actually adore you. They think you're magic. Don't prove them wrong."
 ### Eryn to Dutch !hide
 > "Dutch. You're the smartest person I've ever met, and also somehow the dumbest."
 > 
 > "You've got that Mandate now. All that power. Just... remember why you wanted it in the first place, okay? To protect people. Not to prove anything."
+> 
+> "The kids need someone to teach them. To show them that knowledge is power."
+> *Fading*
+> "Build something beautiful, Dutch. I know you can."
 ### Eryn to Eggo !hide
 > "Eggo. You never wanted to be a hero, right? Just a farmer. Simple life."
 > 
@@ -116,6 +120,8 @@ Atlas is tired of this and joins in, backing them into a corner. This is when he
 > "Tell them... tell them I wasn't scared at the end."
 >
 > "Even though I was. Tell them I was brave."
+> 
+> "And Matt, will you take off the helmet?"
 
 **She slumps forward.**
 **The children are crying.**
@@ -287,7 +293,7 @@ She just looks at him.
 > 
 > "I see it now. You don't want redemption. You want absolution. You want someone to tell you it's okay. That you're still a good person despite everything."
 > 
-> *She turns away*
+> *She turns away and tosses the crystal to the ground, it lands at the party's feet* 
 > 
 > "I can't give you that. No one can."
 ## MARA LEAVES
@@ -311,11 +317,7 @@ She just looks at him.
 
 > "You've made your choice. Now live with it."
 > 
-> *She opens the door*
-> 
 > "When you're ready to truly change, when you're ready to give up the power, face what you've done, and accept responsibility, come find me."
-> 
-> *Pause*
 > 
 > "Until then... I have no more guidance to give you."
 
@@ -331,9 +333,7 @@ She just looks at him.
 > 
 > "The boy I trained... he would never have done what you did today. And until I see him again, there's nothing left for us to say to each other."
 
-**She walks out.**
-**The door closes.**
-**Atlas is alone.**
+**She walks away.**
 ## ATLAS ALONE
 ### What Follows
 
@@ -386,7 +386,7 @@ She just looks at him.
 
 In her pockets when they recover her body:
 
-1. **[[A small journal]]** - partially burned from the spectral spear's energy
+1. **[[Eryn's Journal|A small journal]]** - partially burned from the spectral spear's energy
     - Last entry, dated yesterday:
 2. **A small sketch**, crude, clearly drawn by a child
     - Shows five stick figures: Matt (with shield), Eryn, and three small figures holding hands

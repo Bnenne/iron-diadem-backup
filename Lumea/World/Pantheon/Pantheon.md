@@ -24,8 +24,8 @@ publish: "true"
 - [[God of Greed and Fortune|Varyn]] - God of Greed and Fortune
 - [[God of Harvest and Hearth|Thalos]] - God of Harvest and Hearth
 - [[Goddess of Trickery and Change|Lyraen]] - Goddess of Trickery and Change
-- [[Goddess of Knowledge and Secrets|Eirathis]] - Goddess of Knowledge and Secrets
-- [[Goddess of Passion and Artifice|Vessara]] - Goddess of Passion and Artifice
+- [[Goddess of Knowledge and Secrets|Eirathis]] - Goddess of Knowledge, Secrets, and the Moon
+- [[Goddess of Passion and Artifice|Vessara]] - Goddess of Passion, Artifice, and the Sun
 ## Fallen Gods !hide
 - [[God of Vengeance|Verrath]] - God of Vengeance
 # Historical Timeline

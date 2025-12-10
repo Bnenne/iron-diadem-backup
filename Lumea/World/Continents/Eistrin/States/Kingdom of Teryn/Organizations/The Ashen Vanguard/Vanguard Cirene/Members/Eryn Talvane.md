@@ -11,7 +11,7 @@ publish: "true"
 | ------------ | -------- | ----- | ------ | -------------------- | --- |
 | Eryn Talvane | Half-Elf | Rogue | Female | [[Realm of Aeloria]] | 21  |
 # Biography !hide
-Born is Aeloria to a human dockhand and a vanished elven mother. When she was young, but old enough to remember Aeloria, her and her father moved to the slums of the Teryn Capitol. Eryn Talvane learned to survive by wit and shadow. Her half-elven blood made her an outcast, but her curiosity drew her into old libraries and whispered stories of rebellion.
+Born in Aeloria to a human dockhand and a vanished elven mother. When she was young, but old enough to remember Aeloria, her and her father moved to the slums of the Teryn Capitol. Eryn Talvane learned to survive by wit and shadow. Her half-elven blood made her an outcast, but her curiosity drew her into old libraries and whispered stories of rebellion.
 
 When she witnessed a Vanguard courier’s execution, Eryn took their satchel and delivered the message herself, an act that earned her quiet recruitment. From then on, she worked the underbelly of Teryn’s cities, moving secrets through backstreets and border posts.
 

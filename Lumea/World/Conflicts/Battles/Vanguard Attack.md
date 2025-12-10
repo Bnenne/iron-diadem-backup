@@ -207,23 +207,27 @@ Atlas can take 3 legendary actions, choosing from the options below. Only one le
 **Counterspell (Costs 3 Actions).** Atlas casts counterspell.
 
 ---
-
+CS 1 - 14
+Matt
+Aelrin
+Dutch
+Eryn
 ### Corrupted Soldier (Kaelrath's Reforged)
 
 _Medium undead, neutral evil_
 
-**Armor Class** 13 (natural armor, corroded mail)  
-**Hit Points** 26 (4d8 + 8)  
+**Armor Class** 13 (natural armor, corroded mail)
+**Hit Points** 26 (4d8 + 8)
 **Speed** 30 ft.
 
 **STR** 15 (+2) | **DEX** 10 (+0) | **CON** 14 (+2)  
 **INT** 6 (-2) | **WIS** 8 (-1) | **CHA** 5 (-3)
 
-**Damage Resistances** necrotic  
-**Damage Immunities** poison  
-**Condition Immunities** poisoned, exhaustion  
-**Senses** darkvision 60 ft., passive Perception 9  
-**Languages** understands Common but doesn't speak  
+**Damage Resistances** necrotic
+**Damage Immunities** poison
+**Condition Immunities** poisoned, exhaustion
+**Senses** darkvision 60 ft., passive Perception 9
+**Languages** understands Common but doesn't speak
 **Challenge** 1 (200 XP)
 
 **Undying Servant.** When the corrupted soldier is reduced to 0 hit points, if the Spear of Reverence is within 120 feet and Atlas is conscious, roll a d6. On a 4-6, the soldier collapses but stabilizes. At the start of its next turn, it stands up with 1 hit point.

@@ -7,7 +7,7 @@ aliases:
   - Thalen
 publish: "true"
 ---
-[[God of War and Honor|Kaelrath's]] mighty bow, Ccafted from celestial ashwood, its string hums with restrained power. When drawn, the air trembles; its arrows fly with divine precision. But the more one looses its arrows, the more they hear a voice urging them to punish without cause.
+[[God of War and Honor|Kaelrath's]] mighty bow, crafted from celestial ashwood, its string hums with restrained power. When drawn, the air trembles; its arrows fly with divine precision. But the more one looses its arrows, the more they hear a voice urging them to punish without cause.
 # Attunement
 A character must spend an uninterrupted short rest (one hour) focusing on the item while in physical contact with it.
 # Blessing
